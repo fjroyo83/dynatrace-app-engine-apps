@@ -1,0 +1,15 @@
+.section {
+  border: 1px solid #ccc;
+  padding: 10px;
+  position: relative;
+  border-radius: 8px;
+}
+.section input[type="checkbox"] {
+  top: 10px;
+  left: 10px;
+}
+.section img {
+  max-width: 100%;  
+  margin-top: 10px;
+  border-radius: 4px;
+}

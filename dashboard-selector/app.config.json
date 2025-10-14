@@ -1,0 +1,10 @@
+{
+  "environmentUrl": "https://dyb8308h.sprint.apps.dynatracelabs.com/",
+  "app": {
+    "name": "Dashboard selector",
+    "version": "0.0.0",
+    "description": "A starting project with routing, fetching data, and charting",
+    "id": "my.dashboard.selector",
+    "scopes": [{ "name": "storage:logs:read", "comment": "default template" }, { "name": "storage:buckets:read", "comment": "default template" }]
+  }
+}
