@@ -44,49 +44,49 @@ export const Home = () => {
 
     switch (combinationKey) {
       case 'platform':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=617fb050-27f8-4bb1-9c5d-771470a6fa8c`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000001`);
         return;
       case 'infrastructure':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=9d21a59b-c7db-4c74-a02c-8b1261e38aa3`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000002`);
         return;
       case 'infrastructure-platform':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=cc669d6d-bebc-43de-ab09-7bdfee23f8be`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000003`);
         return;
       case 'functional':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=1a057303-3f15-4ddd-8bfc-7e12d4a9d3bf`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000004`);
         return;
       case 'functional-platform':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=056e5f20-f9a9-4fa1-8257-c2d4a0c1f114`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000005`);
         return;
       case 'functional-infrastructure':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=07e1be86-a7d6-4061-84b0-d745f2c3bebc`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000006`);
         return;
       case 'functional-infrastructure-platform':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=d679f080-5b30-403c-94ee-0aa7af8fe905`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000007`);
         return;
       case 'application':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=eb2d6f21-701b-4990-9517-cd0bcff8c22e`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000008`);
         return;
       case 'application-platform':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=ffd0a04c-4502-490b-a99b-dd6bd12c6811`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000009`);
         return;
       case 'application-infrastructure':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=e3d1b1df-6964-47bb-be1d-69e8c4004be1`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000010`);
         return;
       case 'application-infrastructure-platform':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=1d310524-2999-4c16-a67f-c79bfeb43976`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000011`);
         return;
       case 'application-functional':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=adf5520c-1d99-4f8a-9d68-fb23395c55ee`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000012`);
         return;
       case 'application-functional-platform':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=d4ef0b63-c8b9-4578-8ff1-56cf8f7e3e51`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000013`);
         return;
       case 'application-functional-infrastructure':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=e847edcd-a173-4bbf-a95c-f38a7fb0b773`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000014`);
         return;
       case 'application-functional-infrastructure-platform':
-        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=361fb872-207e-4b6d-b4cd-face89680b1f`);
+        setLink(`${tenantURL}/ui/apps/dynatrace.classic.dashboards/#dashboard;gtf=-2h;gf=all;id=00000000-0000-0000-0000-000000000015`);
         return;
       default:
         setLink('There was an error indentifying the selected sections');
