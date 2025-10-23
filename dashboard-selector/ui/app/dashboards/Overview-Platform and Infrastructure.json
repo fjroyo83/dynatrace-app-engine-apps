@@ -9,7 +9,6 @@
   "dashboardMetadata": {
     "name": "Overview-Platform and Infrastructure",
     "shared": false,
-    "owner": "francisco.royo@dynatrace.com",
     "popularity": 1,
     "hasConsistentColors": false
   },

@@ -9,7 +9,6 @@
   "dashboardMetadata": {
     "name": "Overview-Functional, Application and Platform",
     "shared": false,
-    "owner": "francisco.royo@dynatrace.com",
     "popularity": 1,
     "hasConsistentColors": false
   },
